@@ -2,6 +2,10 @@
 //:
 //: `python -m SimpleHTTPServer`
 //:
+//: Or if you are using Python 3:
+//:
+//: `python -m http.server`
+//:
 //: It will serve up the current directory, so make sure to be in the directory containing episodes.json
 
 import UIKit
